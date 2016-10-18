@@ -1,6 +1,6 @@
 ######################################
-# 12.10.2016
-# Multiple Linear Regression (MLR) example
+# 10/18/2016
+# Multiple Linear Regression (MLR)
 # BISC 481
 ######################################
 
