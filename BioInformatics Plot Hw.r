@@ -23,6 +23,15 @@ my.theme <- theme(
   axis.text = element_text(colour ="black"),
   axis.ticks = element_line(colour = "black")
 )
+## Data
+## For 1-Mer
+# R^2 for Mad= .7752117
+# R^2 for Max= .7856751
+# R^2 for MyC= .7780480
+##1-Mer+ 1-shape
+## R^2 for Mad= .863343
+## R^2 for Max= .8644034
+## R^2 for MyC= .854405
 
 ## Data preparation
 "1-Mer"=data1 <- c(0.78, 0.79, 0.78)
